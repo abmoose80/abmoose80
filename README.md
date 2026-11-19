@@ -1,4 +1,7 @@
-## Hi there 👋
+## I am a driven technology professional currently studying AWS and Terraform to build expertise in cloud infrastructure, automation, and Infrastructure as Code (IaC). My goal is to become a Cloud Engineer who designs scalable, secure, and resilient cloud solutions. I am committed to continuous learning and hands-on experience to turn cloud concepts into real-world business value.
+
+
+
 
 <!--
 **abmoose80/abmoose80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
